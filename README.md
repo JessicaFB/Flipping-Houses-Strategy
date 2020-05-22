@@ -18,8 +18,8 @@ Source: https://www.kaggle.com/harlfoxem/housesalesprediction
 
 ## Methods 
 
-Multiple Linear Regression Analysis
-Analysis of the Coefficients
+- Multiple Linear Regression Analysis
+- Analysis of the Coefficients
 
 Since many of the data columns/features were skewed, and the model residuals were not normally distributed, I decided to log-transform, normalize and min-max scale the data set.
 
@@ -38,9 +38,10 @@ There was a clear neighborhood effect at play as well, as we could see with lati
 ## Recommendations
 
 Based on the results and findings, I recommend:
-Invest in larger lower grade homes (relative to the neighborhood) and increase the homes grade according to the King County grading scale
-Invest in larger homes on the fringes of relatively more affluent neighborhoods that are bordering more average neighborhoods and increase the grade
-Invest in homes in neighborhoods that are being gentrified and increase the grade  
+
+- Invest in larger lower grade homes (relative to the neighborhood) and increase the homes grade according to the King County grading scale
+- Invest in larger homes on the fringes of relatively more affluent neighborhoods that are bordering more average neighborhoods and increase the grade
+- Invest in homes in neighborhoods that are being gentrified and increase the grade  
 
 Grading system used in King County: https://info.kingcounty.gov/assessor/esales/Glossary.aspx?type=r
 
