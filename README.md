@@ -58,4 +58,7 @@ Data for this can be found at:
 
 ## Thank you!
 
-For any additional questions, please feel free to connect with me at jlforrestbaldini@gmail.com or on LinkedIn at https://www.linkedin.com/in/jessica-forrest-baldini
+For any additional questions, please feel free to connect with me at jlforrestbaldini@gmail.com or on LinkedIn at https://www.linkedin.com/in/jessica-forrest-baldini.
+
+#### Social Preview Photo
+<span>Photo by <a href="https://unsplash.com/@lucamicheli?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Luca Micheli</a> on <a href="https://unsplash.com/s/photos/seattle-washington-real-estate?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
